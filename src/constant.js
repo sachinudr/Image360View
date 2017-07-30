@@ -1,0 +1,1 @@
+export const GET_PANONS_URL = 'https://demo0813639.mockable.io/getPanos';
